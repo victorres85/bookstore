@@ -1,5 +1,3 @@
-from turtle import title
-from unicodedata import category
 import factory
 
 from product.models import Product
